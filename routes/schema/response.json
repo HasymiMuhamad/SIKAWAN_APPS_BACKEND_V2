@@ -1,0 +1,9 @@
+{
+  "title" : "Response",
+  "decription" : "Response DOE & School",
+  "type" : "object",
+  "properties" :{
+      "response" : {"type" : "string", "minLength": 12},
+      "responseSchool" : {"type" : "string"}
+  }
+}
