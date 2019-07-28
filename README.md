@@ -13,6 +13,7 @@ https:localhost:3000/teacher/schedule
 
 Response : 
 
+```
 {
   "success": true,
   "message": "Schedules found",
@@ -30,4 +31,7 @@ Response :
     }
   ]
 }
+```
+
+
 
