@@ -14,7 +14,7 @@
   "dependencies": {
     "ajv": "^6.10.0",
     "assert": "^1.4.1",
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "chai": "^4.2.0",
     "chai-http": "^4.2.1",
     "cloudinary": "^1.14.0",
